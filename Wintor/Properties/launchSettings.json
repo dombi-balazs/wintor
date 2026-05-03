@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Wintor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Wintor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
